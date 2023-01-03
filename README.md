@@ -106,6 +106,8 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 
 Output:
 
+![EX 2 2 4T2-1 22008304 A NIXAN DASS (1)_page-0001](https://user-images.githubusercontent.com/118781418/210421076-068a5e0c-a8b5-45d6-9204-5abf8ce16e7a.jpg)
+
 ## RESULT: 
 Thus, the 3D model is created from given isometric drawing.
 
